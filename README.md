@@ -323,11 +323,6 @@ The RL agent correctly converged (confirmed by Q-value stabilization) but develo
 **Manisha Naiyar**  
 [GitHub](https://github.com/manishanaiyar) · [LinkedIn](https://linkedin.com/in/manishanaiyar)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
